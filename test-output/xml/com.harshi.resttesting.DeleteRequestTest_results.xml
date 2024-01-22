@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="REST APIs"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="1.618">
+  <properties />
+  
+  
+            <testcase name="putRequestTest" time="0.523" classname="com.harshi.resttesting.DeleteRequestTest" />
+                <testcase name="putRequestTest" time="0.551" classname="com.harshi.resttesting.DeleteRequestTest" />
+                <testcase name="putRequestTest" time="0.544" classname="com.harshi.resttesting.DeleteRequestTest" />
+      
+</testsuite>

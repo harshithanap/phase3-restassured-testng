@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-20T12:34:56 IST" name="Default suite" finished-at="2024-01-20T12:34:59 IST" duration-ms="3019">
+    <groups>
+    </groups>
+    <test started-at="2024-01-20T12:34:56 IST" name="Default test" finished-at="2024-01-20T12:34:59 IST" duration-ms="3019">
+      <class name="com.harshi.authtest.SSLAuthenticationTest">
+        <test-method signature="testSSLCertificate1()[pri:0, instance:com.harshi.authtest.SSLAuthenticationTest@7db12bb6]" started-at="2024-01-20T12:34:56 IST" name="testSSLCertificate1" description="Test SSL Certificate for HTTPs" finished-at="2024-01-20T12:34:58 IST" duration-ms="2260" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSSLCertificate1 -->
+        <test-method signature="testSSLCertificate2()[pri:0, instance:com.harshi.authtest.SSLAuthenticationTest@7db12bb6]" started-at="2024-01-20T12:34:58 IST" name="testSSLCertificate2" description="Test SSL Certificate ignore for HTTP" finished-at="2024-01-20T12:34:59 IST" duration-ms="710" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSSLCertificate2 -->
+      </class> <!-- com.harshi.authtest.SSLAuthenticationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

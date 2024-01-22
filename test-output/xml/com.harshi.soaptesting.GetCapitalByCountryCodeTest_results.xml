@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SOAP APIs"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="5.083">
+  <properties />
+  
+  
+            <testcase name="postXMLRequestTest" time="1.233" classname="com.harshi.soaptesting.GetCapitalByCountryCodeTest" />
+                <testcase name="postXMLRequestTest" time="1.363" classname="com.harshi.soaptesting.GetCapitalByCountryCodeTest" />
+                <testcase name="postXMLRequestTest" time="1.240" classname="com.harshi.soaptesting.GetCapitalByCountryCodeTest" />
+                <testcase name="postXMLRequestTest" time="1.247" classname="com.harshi.soaptesting.GetCapitalByCountryCodeTest" />
+      
+</testsuite>
